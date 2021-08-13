@@ -1,0 +1,14 @@
+*Cadastrar foto e telefone(Profissional e Cliente)
+Converter Money
+
+
+Estoque:
+Registrar entrada e saída
+
+
+Agenda:
+Editar
+Tempo de Duração
+Observações
+Comanda
+

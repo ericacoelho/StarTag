@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DDB26601-C616-4586-9791-5C6245EC9EF7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SalaodeBeleza</RootNamespace>
+    <AssemblyName>SalaodeBeleza</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\Caixa.cs" />
+    <Compile Include="Dao\Conexao.cs" />
+    <Compile Include="Dao\DaoAgenda.cs" />
+    <Compile Include="Dao\DaoCaixa.cs" />
+    <Compile Include="Dao\DaoCliente.cs" />
+    <Compile Include="Dao\DaoComanda.cs" />
+    <Compile Include="Dao\DaoEntradaSaida.cs" />
+    <Compile Include="Dao\DaoEspecialidade.cs" />
+    <Compile Include="Dao\DaoEstoque.cs" />
+    <Compile Include="Dao\DaoFabricante.cs" />
+    <Compile Include="Dao\DaoProfissional.cs" />
+    <Compile Include="Dao\daoRelatorio.cs" />
+    <Compile Include="Dao\DaoServico.cs" />
+    <Compile Include="Dao\DaoUsuario.cs" />
+    <Compile Include="Dao\Validacao.cs" />
+    <Compile Include="Model\Agenda.cs" />
+    <Compile Include="Model\Comanda1.cs" />
+    <Compile Include="Model\EntradaProduto.cs" />
+    <Compile Include="Model\Especialidade.cs" />
+    <Compile Include="View\Caixa2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Caixa2.Designer.cs">
+      <DependentUpon>Caixa2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormRelatorio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\FormRelatorio.Designer.cs">
+      <DependentUpon>FormRelatorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmCaixa.Designer.cs">
+      <DependentUpon>FrmCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Pagamento.Designer.cs">
+      <DependentUpon>Pagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Comanda.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Comanda.Designer.cs">
+      <DependentUpon>Comanda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmEspecialidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmEspecialidade.Designer.cs">
+      <DependentUpon>FrmEspecialidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmMarca.Designer.cs">
+      <DependentUpon>FrmMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmSaidaProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmSaidaProduto.Designer.cs">
+      <DependentUpon>FrmSaidaProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmConta.Designer.cs">
+      <DependentUpon>FrmConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmOpacidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmOpacidade.Designer.cs">
+      <DependentUpon>FrmOpacidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmEntradaProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmEntradaProduto.Designer.cs">
+      <DependentUpon>FrmEntradaProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmAgenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmAgenda.Designer.cs">
+      <DependentUpon>FrmAgenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmAgenda2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\FrmAgenda2.Designer.cs">
+      <DependentUpon>FrmAgenda2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmProduto2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\FrmProduto2.Designer.cs">
+      <DependentUpon>FrmProduto2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmProfissional2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\FrmProfissional2.Designer.cs">
+      <DependentUpon>FrmProfissional2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Cliente.cs" />
+    <Compile Include="Model\Fabricante.cs" />
+    <Compile Include="Model\Produto.cs" />
+    <Compile Include="Model\Profissional.cs" />
+    <Compile Include="Model\Servico.cs" />
+    <Compile Include="Model\Usuario.cs" />
+    <Compile Include="Service References\ServiceCorreiosCep\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="View\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\FrmCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmCadastro.Designer.cs">
+      <DependentUpon>FrmCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmCliente.Designer.cs">
+      <DependentUpon>FrmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmCliente1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\FrmCliente1.Designer.cs">
+      <DependentUpon>FrmCliente1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmFabricante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmFabricante.Designer.cs">
+      <DependentUpon>FrmFabricante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmInicial.Designer.cs">
+      <DependentUpon>FrmInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmProduto.Designer.cs">
+      <DependentUpon>FrmProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmProfissional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmProfissional.Designer.cs">
+      <DependentUpon>FrmProfissional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmServico.Designer.cs">
+      <DependentUpon>FrmServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ucServico.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\ucServico.Designer.cs">
+      <DependentUpon>ucServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\Caixa2.resx">
+      <DependentUpon>Caixa2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormRelatorio.resx">
+      <DependentUpon>FormRelatorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmCaixa.resx">
+      <DependentUpon>FrmCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pagamento.resx">
+      <DependentUpon>Pagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Comanda.resx">
+      <DependentUpon>Comanda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmEspecialidade.resx">
+      <DependentUpon>FrmEspecialidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmMarca.resx">
+      <DependentUpon>FrmMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmSaidaProduto.resx">
+      <DependentUpon>FrmSaidaProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmAgenda.resx">
+      <DependentUpon>FrmAgenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmConta.resx">
+      <DependentUpon>FrmConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmOpacidade.resx">
+      <DependentUpon>FrmOpacidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmEntradaProduto.resx">
+      <DependentUpon>FrmEntradaProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmAgenda2.resx">
+      <DependentUpon>FrmAgenda2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmProduto2.resx">
+      <DependentUpon>FrmProduto2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmProfissional2.resx">
+      <DependentUpon>FrmProfissional2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmCadastro.resx">
+      <DependentUpon>FrmCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmCliente.resx">
+      <DependentUpon>FrmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmCliente1.resx">
+      <DependentUpon>FrmCliente1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmFabricante.resx">
+      <DependentUpon>FrmFabricante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmInicial.resx">
+      <DependentUpon>FrmInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmProduto.resx">
+      <DependentUpon>FrmProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmProfissional.resx">
+      <DependentUpon>FrmProfissional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmServico.resx">
+      <DependentUpon>FrmServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ucServico.resx">
+      <DependentUpon>ucServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\ServiceCorreiosCep\AtendeClienteService.wsdl" />
+    <None Include="Service References\ServiceCorreiosCep\SalaodeBeleza.ServiceCorreiosCep.clienteERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceCorreiosCep\SalaodeBeleza.ServiceCorreiosCep.contratoERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceCorreiosCep\SalaodeBeleza.ServiceCorreiosCep.embalagemLRSMaster.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceCorreiosCep\SalaodeBeleza.ServiceCorreiosCep.enderecoERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceCorreiosCep\SalaodeBeleza.ServiceCorreiosCep.retornoCancelamento.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceCorreiosCep\SalaodeBeleza.ServiceCorreiosCep.servicoAdicionalXML.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceCorreiosCep\SalaodeBeleza.ServiceCorreiosCep.servicoERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceCorreiosCep\SalaodeBeleza.ServiceCorreiosCep.statusCartao.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceCorreiosCep\SalaodeBeleza.ServiceCorreiosCep.statusPlp.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ServiceCorreiosCep\SalaodeBeleza.ServiceCorreiosCep.valePostal.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconUserBranco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text-box-png-18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text-box-png-181.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text-box-png-182.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text-box-png-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text-box-png-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadeado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadeado2].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone-de-cadeado_318-42569.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadeado3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadeado4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text-box-png-183.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-passe-de-segurança-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-passe-de-segurança-801.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security-pass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group-foreground-selected-filled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hair-dryer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cream-tube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adcCnt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text-box-png-184.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text-box-png-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo-preto-transparente-png-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borda-foto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_div2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ServiceCorreiosCep\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceCorreiosCep\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceCorreiosCep\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceCorreiosCep\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text-box-png-13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconUser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textBP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textBP1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anadir-boton-con-signo-mas-en-un-circulo-negro %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lapiz-boton-de-editar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text-Verde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vexor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outra1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xxxx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mas10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0fundo-degrade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textvermelha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textvermelhacerta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lapiz-boton-de-editar %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mas3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mas %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logocomnome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imprimirlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reloj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reloj %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reloj1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_05-17-09.28.40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PicsArt_05-17-09.25.48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-caixa-registradora-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-salário-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-salário-32 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-letras-miúdas-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-letras-miúdas-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-letras-miúdas-filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atualizar.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
