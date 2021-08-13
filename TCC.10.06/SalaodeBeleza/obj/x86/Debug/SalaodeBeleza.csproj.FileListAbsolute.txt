@@ -1,0 +1,620 @@
+E:\Erica\3º MÓDULO\DS\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+E:\Erica\3º MÓDULO\DS\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+E:\Erica\3º MÓDULO\DS\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+E:\Erica\3º MÓDULO\DS\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Form1.resources
+E:\Erica\3º MÓDULO\DS\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.Cache
+E:\Erica\3º MÓDULO\DS\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+E:\Erica\3º MÓDULO\DS\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.Cache
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csprojResolveAssemblyReference.cache
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.Cache
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+E:\ETEC\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.Cache
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csprojResolveAssemblyReference.cache
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Erica\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\coelh\OneDrive\Área de Trabalho\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csprojResolveAssemblyReference.cache
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.Cache
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Pagamento.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\JESSICA\Pictures\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.Cache
+E:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csprojResolveAssemblyReference.cache
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ETEC\tcc\SalaodeBeleza1\SalaodeBeleza\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.Cache
+E:\ETEC\tcc\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Downloads\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csprojAssemblyReference.cache
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.cache
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\Positivo\Downloads\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\César\Desktop\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.Cache
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csprojAssemblyReference.cache
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.cache
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\Positivo\Downloads\SalaoJanainaComRelatorios\SalaoJanaina (1)\SalaoJanaina\SalaoJanaina\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\SalaodeBeleza\SalaodeBeleza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\Sakura\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csprojAssemblyReference.cache
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.cache
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\Positivo\Downloads\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\Aluno.lab1pc13\Downloads\TCC.10.06\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe.config
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.exe
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\bin\Debug\SalaodeBeleza.pdb
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csprojAssemblyReference.cache
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Caixa2.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FormRelatorio.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCaixa.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Pagamento.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.Comanda.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmEspecialidade.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmMarca.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmSaidaProduto.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmConta.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmOpacidade.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmEntradaProduto.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmAgenda2.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmProduto2.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.FrmProfissional2.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Properties.Resources.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.Form1.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCadastro.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmCliente.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.FrmCliente1.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmFabricante.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmInicial.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProduto.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmProfissional.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.Model.FrmServico.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.ucServico.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.View.UserControl1.resources
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.GenerateResource.cache
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.exe
+C:\Users\Positivo\Desktop\DTCC\TCC.10.06\SalaodeBeleza\obj\x86\Debug\SalaodeBeleza.pdb
